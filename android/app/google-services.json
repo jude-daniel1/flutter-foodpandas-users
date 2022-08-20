@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "254806405818",
+    "project_id": "flutterfoodpandas",
+    "storage_bucket": "flutterfoodpandas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254806405818:android:5f029417548974877f0883",
+        "android_client_info": {
+          "package_name": "com.jude.flutter_food_sellers_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254806405818-osg7e6dm7gq1qr6cfocqpfd7ns1ciidl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdEtG5a5IDjhik31hIII7xpyFbvFaPfmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254806405818-osg7e6dm7gq1qr6cfocqpfd7ns1ciidl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254806405818:android:e99b057aae8dde3d7f0883",
+        "android_client_info": {
+          "package_name": "com.jude.foodpandas_users_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254806405818-osg7e6dm7gq1qr6cfocqpfd7ns1ciidl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdEtG5a5IDjhik31hIII7xpyFbvFaPfmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254806405818-osg7e6dm7gq1qr6cfocqpfd7ns1ciidl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
